@@ -35,7 +35,7 @@ A conversational AI assistant built with LangChain and Streamlit that answers qu
 ```bash
 git clone https://github.com/claudiacodelab/ai_rag_cv.git
 cd cv-rag-assistant
-```bash
+```
 
 2. Create and activate a virtual environment:
 ```bash
